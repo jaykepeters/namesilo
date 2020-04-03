@@ -1,6 +1,6 @@
 <?php
 
-namespace Vigny;
+namespace jp;
 class Namesilo{
     #### by default use the sandbox in development
     ###  Please add IP whitelist in formal environment
