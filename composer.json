@@ -9,18 +9,13 @@
             "email": "jaykepeters@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "require": {
         "php": ">=7.0.0"
     },
     "autoload": {
         "psr-4": {
             "jp\\": "src/"
-        }
-    },
-    "extra": {
-        "branch-alias": {
-            "dev-master": "1.0.0-dev"
         }
     }
 }
