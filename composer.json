@@ -1,12 +1,12 @@
 {
-    "name": "vignynet/namesilo",
-    "description": "Namesilo Api",
+    "name": "jaykepeters/namesiloAPI",
+    "description": "Namesilo API",
     "type": "project",
     "license": "Apache-2.0",
     "authors": [
         {
-            "name": "vigny",
-            "email": "vignynet@gmail.com"
+            "name": "Jayke Peters",
+            "email": "jaykepeters@gmail.com"
         }
     ],
     "minimum-stability": "dev",
@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Vigny\\": "src/"
+            "jp\\": "src/"
         }
     },
     "extra": {
